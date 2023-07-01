@@ -1,0 +1,4 @@
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/glfw.dir
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/rendererSolution.dir
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/ZERO_CHECK.dir

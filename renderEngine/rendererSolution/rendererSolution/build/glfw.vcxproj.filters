@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\c397ead654e8a4d14ef621aed06737db\glfw-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\a98ef6c50f07ced21a7c762017150f8c\glfw-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\fd6560272f63ca49beba61c70f867301\glfw.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Brenstem\Desktop\dev\audio-visualizer\renderEngine\rendererSolution\rendererSolution\build\CMakeFiles\glfw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A60BF3E5-273A-3A6E-B911-2C3015D658AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

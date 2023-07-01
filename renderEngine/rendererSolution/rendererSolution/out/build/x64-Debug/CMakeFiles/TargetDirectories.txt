@@ -1,0 +1,4 @@
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/glfw.dir
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/rendererSolution.dir
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

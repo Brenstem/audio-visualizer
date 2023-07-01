@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/glfw"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/fd6560272f63ca49beba61c70f867301/glfw.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/a98ef6c50f07ced21a7c762017150f8c/glfw-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-build.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-install.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/build/CMakeFiles/c397ead654e8a4d14ef621aed06737db/glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw"
+		],
+		"name" : "glfw"
+	}
+}

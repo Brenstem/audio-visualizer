@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/glfw"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/glfw.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/out/build/x64-Debug/CMakeFiles/glfw-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-build.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-download.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-install.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Brenstem/Desktop/dev/audio-visualizer/renderEngine/rendererSolution/rendererSolution/dependencies/glfw/src/glfw-stamp/glfw-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw"
+		],
+		"name" : "glfw"
+	}
+}
