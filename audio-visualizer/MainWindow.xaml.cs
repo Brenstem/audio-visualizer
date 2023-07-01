@@ -24,5 +24,10 @@ namespace audio_visualizer
         {
             InitializeComponent();
         }
+
+        private void Frame_Navigated(object sender, NavigationEventArgs e)
+        {
+
+        }
     }
 }
