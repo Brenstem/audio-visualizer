@@ -33,3 +33,4 @@ renderEngine/bin/Debug-windows-x86_64/renderEngine/renderEngine.pdb
 renderEngine/renderEngine.sln
 renderEngine/renderEngine/renderEngine.vcxproj
 renderEngine/renderEngine/renderEngine.vcxproj.user
+*.vsidx
