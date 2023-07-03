@@ -1,4 +1,78 @@
+### GUI gitignore section ### 
 
+# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Visual Studio
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.vspscc
+*.vssscc
+*.vsixmanifest
+*.builds
+*.pidb
+*.svclog
+*.sln.ide
+*.suo
+*.sdf
+*.ipch/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+*.resharper
+*.[Cc]ache
+*.dotCover
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc]pu/
+[Dd]ubug[Bb]in/
+[Rr]elease[Bb]in/
+[Bb]uild[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+*.paket.*
+*.FAKE
+*.dll.config
+
+# Roslyn
+/.ide/
+
+# Rider
+.idea/
+*.csproj.user
+*.sln.iml
+ReSharper*
+
+# Others
+*.[Tt]est[Aa]uthoring.*.cache
+*.dotSettings.user
+*.coverage
+*.vsmdi
+*.wixproj
+*.wixout
+*.csproj.user
+*.sw?
+[Tt]humbs.db
+[Tt]est[Rr]esults
+
+
+### --- ###
+
+### RenderEngine gitignore section ### 
 renderEngine/.vs/renderEngine/FileContentIndex/1a3b519f-ce7f-4f07-ad22-987c80989d0e.vsidx
 renderEngine/.vs/renderEngine/FileContentIndex/21ccd790-f61c-481e-9543-212ddd465d29.vsidx
 renderEngine/.vs/renderEngine/FileContentIndex/a06c0f29-826c-4689-a04f-b6e4e5591596.vsidx
@@ -34,6 +108,6 @@ renderEngine/renderEngine.sln
 renderEngine/renderEngine/renderEngine.vcxproj
 renderEngine/renderEngine/renderEngine.vcxproj.user
 *.vsidx
-/visualizerGUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-/visualizerGUI/.vs/audio-visualizer/FileContentIndex/a7777d5f-f4e7-4575-8308-03c9b14dee8e.vsidx
-/.vs/audio-visualizer/v17
+
+### --- ###
+/visualizerGUI/.vs/audio-visualizer/v17/.suo
