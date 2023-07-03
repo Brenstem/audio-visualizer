@@ -1,11 +1,11 @@
-﻿<Window x:Class="visualizerGUI.MainWindow"
+﻿<Window x:Class="visualizerGUI.FrequencyParameterMapperWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Audio-Visualizer" Height="450" Width="800"
         Background="#282B28">
     <Grid>
         <!-- Top bar -->
-        <Grid Background="#7B886B" Height="40" VerticalAlignment="Top">
+        <Grid Background="#7B386B" Height="40" VerticalAlignment="Top">
             <!-- Add your buttons or other elements for the top bar here -->
         </Grid>
 
@@ -14,9 +14,12 @@
             <!-- Sidebar -->
             <Grid Background="#7B886B" Width="200" VerticalAlignment="Stretch" HorizontalAlignment="Left">
                 <!-- Add your buttons and drop-down menus for the sidebar here -->
-
             </Grid>
+
+            <!-- C++ renderer using WindowsFormsHost -->
+            <WindowsFormsHost VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                <!-- Add your C++ renderer control here -->
+            </WindowsFormsHost>
         </Grid>
-        <Button Content="Frequency-parameter mapper" Margin= "10,10,614,383" Click="Button_Click"/>
     </Grid>
 </Window>

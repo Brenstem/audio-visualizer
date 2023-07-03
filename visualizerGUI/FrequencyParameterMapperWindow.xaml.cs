@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,11 +18,10 @@ namespace visualizerGUI
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class FrequencyParameterMapperWindow : Window
     {
-        public MainWindow()
+        public FrequencyParameterMapperWindow()
         {
-            System.Diagnostics.Debug.WriteLine("Opening new Audio-visualizer");
             InitializeComponent();
         }
 
@@ -32,7 +30,8 @@ namespace visualizerGUI
 
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e) {
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
 
             System.Diagnostics.Debug.WriteLine("Opening new frequency parameter mapper");
 
