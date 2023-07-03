@@ -34,3 +34,6 @@ renderEngine/renderEngine.sln
 renderEngine/renderEngine/renderEngine.vcxproj
 renderEngine/renderEngine/renderEngine.vcxproj.user
 *.vsidx
+/visualizerGUI/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/visualizerGUI/.vs/audio-visualizer/FileContentIndex/a7777d5f-f4e7-4575-8308-03c9b14dee8e.vsidx
+/.vs/audio-visualizer/v17
