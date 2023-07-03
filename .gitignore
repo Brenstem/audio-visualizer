@@ -1,0 +1,113 @@
+### GUI gitignore section ### 
+
+# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Visual Studio
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.vspscc
+*.vssscc
+*.vsixmanifest
+*.builds
+*.pidb
+*.svclog
+*.sln.ide
+*.suo
+*.sdf
+*.ipch/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+*.resharper
+*.[Cc]ache
+*.dotCover
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc]pu/
+[Dd]ubug[Bb]in/
+[Rr]elease[Bb]in/
+[Bb]uild[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+*.paket.*
+*.FAKE
+*.dll.config
+
+# Roslyn
+/.ide/
+
+# Rider
+.idea/
+*.csproj.user
+*.sln.iml
+ReSharper*
+
+# Others
+*.[Tt]est[Aa]uthoring.*.cache
+*.dotSettings.user
+*.coverage
+*.vsmdi
+*.wixproj
+*.wixout
+*.csproj.user
+*.sw?
+[Tt]humbs.db
+[Tt]est[Rr]esults
+
+
+### --- ###
+
+### RenderEngine gitignore section ### 
+renderEngine/.vs/renderEngine/FileContentIndex/1a3b519f-ce7f-4f07-ad22-987c80989d0e.vsidx
+renderEngine/.vs/renderEngine/FileContentIndex/21ccd790-f61c-481e-9543-212ddd465d29.vsidx
+renderEngine/.vs/renderEngine/FileContentIndex/a06c0f29-826c-4689-a04f-b6e4e5591596.vsidx
+renderEngine/.vs/renderEngine/FileContentIndex/a4ef56dc-ea23-49b6-98f0-e02b51c94aba.vsidx
+renderEngine/.vs/renderEngine/FileContentIndex/edf88da4-9cfc-4bd6-9778-ad2d619f7ca2.vsidx
+renderEngine/.vs/renderEngine/FileContentIndex/read.lock
+renderEngine/.vs/renderEngine/v17/.suo
+renderEngine/.vs/renderEngine/v17/Browse.VC.db
+renderEngine/.vs/renderEngine/v17/Browse.VC.db-shm
+renderEngine/.vs/renderEngine/v17/Browse.VC.db-wal
+renderEngine/.vs/renderEngine/v17/Browse.VC.opendb
+renderEngine/.vs/renderEngine/v17/ipch/AutoPCH/184ed265755dc1c2/MAIN.ipch
+renderEngine/.vs/renderEngine/v17/ipch/AutoPCH/ab0cc0f7c2758782/MAIN.ipch
+renderEngine/.vs/renderEngine/v17/ipch/AutoPCH/e6529086d78ee22/MAIN.ipch
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/main.obj
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.Build.CppClean.log
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.exe.recipe
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.ilk
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.log
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/CL.command.1.tlog
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/CL.read.1.tlog
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/CL.write.1.tlog
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/link.command.1.tlog
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/link.read.1.tlog
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/link.write.1.tlog
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.tlog/renderEngine.lastbuildstate
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/renderEngine.vcxproj.FileListAbsolute.txt
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/vc143.idb
+renderEngine/bin-obj/Debug-windows-x86_64/renderEngine/vc143.pdb
+renderEngine/bin/Debug-windows-x86_64/renderEngine/renderEngine.exe
+renderEngine/bin/Debug-windows-x86_64/renderEngine/renderEngine.pdb
+renderEngine/renderEngine.sln
+renderEngine/renderEngine/renderEngine.vcxproj
+renderEngine/renderEngine/renderEngine.vcxproj.user
+*.vsidx
+
+### --- ###
+/visualizerGUI/.vs/audio-visualizer/v17/.suo

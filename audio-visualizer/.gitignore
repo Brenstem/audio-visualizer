@@ -1,0 +1,73 @@
+### GUI gitignore section ### 
+
+# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Visual Studio
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.vspscc
+*.vssscc
+*.vsixmanifest
+*.builds
+*.pidb
+*.svclog
+*.sln.ide
+*.suo
+*.sdf
+*.ipch/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+*.resharper
+*.[Cc]ache
+*.dotCover
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc]pu/
+[Dd]ubug[Bb]in/
+[Rr]elease[Bb]in/
+[Bb]uild[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+*.paket.*
+*.FAKE
+*.dll.config
+
+# Roslyn
+/.ide/
+
+# Rider
+.idea/
+*.csproj.user
+*.sln.iml
+ReSharper*
+
+# Others
+*.[Tt]est[Aa]uthoring.*.cache
+*.dotSettings.user
+*.coverage
+*.vsmdi
+*.wixproj
+*.wixout
+*.csproj.user
+*.sw?
+[Tt]humbs.db
+[Tt]est[Rr]esults
+
+
+### --- ###
