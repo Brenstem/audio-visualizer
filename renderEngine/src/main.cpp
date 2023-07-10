@@ -18,6 +18,12 @@
 #define GLFW_EXPOSE_NATIVE_WIN32
 #include <GLFW/glfw3native.h>
 
+#define NOMINMAX
+#include <windows.h>
+#include <dxcapi.h>
+#include <wrl/client.h>
+
+
 //The tutorial turned out to be out - of - date with the behavior of the latest SDK.
 //Try the new instructions under the "Testing" subchapter.
 //-Validation layers
@@ -64,6 +70,7 @@ class HelloTriangleApplication {
 public:
     void run() 
     {
+        //Microsoft::WRL::ComPtr<IDxcUtils> meme;
         initWindow();
         initVulkan();
         mainLoop();
