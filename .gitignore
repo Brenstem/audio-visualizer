@@ -111,3 +111,33 @@ renderEngine/renderEngine/renderEngine.vcxproj.user
 
 ### --- ###
 /visualizerGUI/.vs/audio-visualizer/v17/.suo
+renderEngine/build/ALL_BUILD.vcxproj
+renderEngine/build/ALL_BUILD.vcxproj.filters
+renderEngine/build/cmake_install.cmake
+renderEngine/build/CMakeCache.txt
+renderEngine/build/CMakeFiles/1636f58e1e8020761ece77c88efc8954/generate.stamp.rule
+renderEngine/build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake
+renderEngine/build/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin
+renderEngine/build/CMakeFiles/3.26.4/CMakeRCCompiler.cmake
+renderEngine/build/CMakeFiles/3.26.4/CMakeSystem.cmake
+renderEngine/build/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp
+renderEngine/build/CMakeFiles/3.26.4/CompilerIdCXX/CompilerIdCXX.exe
+renderEngine/build/CMakeFiles/3.26.4/CompilerIdCXX/CompilerIdCXX.vcxproj
+renderEngine/build/CMakeFiles/3.26.4/VCTargetsPath.txt
+renderEngine/build/CMakeFiles/3.26.4/VCTargetsPath.vcxproj
+renderEngine/build/CMakeFiles/cmake.check_cache
+renderEngine/build/CMakeFiles/CMakeConfigureLog.yaml
+renderEngine/build/CMakeFiles/generate.stamp
+renderEngine/build/CMakeFiles/generate.stamp.depend
+renderEngine/build/CMakeFiles/generate.stamp.list
+renderEngine/build/CMakeFiles/TargetDirectories.txt
+renderEngine/build/renderEngine.sln
+renderEngine/build/renderEngine.vcxproj
+renderEngine/build/renderEngine.vcxproj.filters
+renderEngine/build/ZERO_CHECK.vcxproj
+renderEngine/build/ZERO_CHECK.vcxproj.filters
+renderEngine/premake/CMakePresets.json
+renderEngine/premake/GenerateProjects.bat
+renderEngine/premake/premake5.lua
+renderEngine/premake/vcpkg-config.json
+renderEngine/premake/vcpkg.json
