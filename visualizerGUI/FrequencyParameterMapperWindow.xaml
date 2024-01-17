@@ -5,7 +5,7 @@
         Background="#282B28">
     <Grid>
         <!-- Top bar -->
-        <Grid Background="#7B386B" Height="40" VerticalAlignment="Top">
+        <Grid Background="#7C386B" Height="40" VerticalAlignment="Top">
             <!-- Add your buttons or other elements for the top bar here -->
         </Grid>
 
